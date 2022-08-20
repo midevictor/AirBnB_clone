@@ -73,4 +73,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Ayomide Suara** - [aysuarex](https://github.com/aysuarex)
+* **Ayomide Suara** - [Ayomide Victor](https://github.com/midevictor)
